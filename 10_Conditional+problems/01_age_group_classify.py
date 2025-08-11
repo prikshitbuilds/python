@@ -1,4 +1,4 @@
-user_age = 25
+user_age = 20
 
 if user_age<13:
     print('Child')
